@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:39:40.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eHH8ZBjhcvNHFTuv612C" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T05:19:40.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yJmb9t6DUP0AHHbYD0ok" version="24.2.3" type="github">
   <diagram name="Page-1" id="sWoITh5nit93X9ULC7RN">
     <mxGraphModel dx="1760" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YYzyWu6Zux30reTFmIS8-4" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="240" height="400" as="geometry" />
+        <mxCell id="YYzyWu6Zux30reTFmIS8-4" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="240" height="520" as="geometry" />
         </mxCell>
         <mxCell id="-F8Sye1jgOw15lCDq2b4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-F8Sye1jgOw15lCDq2b4-1" target="-F8Sye1jgOw15lCDq2b4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,23 +79,29 @@
         <mxCell id="-F8Sye1jgOw15lCDq2b4-38" value="Params:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Velocity&lt;/li&gt;&lt;li&gt;Angle&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Position&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="-60" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-1" value="Social Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-1" value="Social Interface" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="760" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-2" value="Behavior Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-2" value="Behavior Interface" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="880" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-3" value="Routine&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Interface&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-3" value="Routine&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Interface&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-5" value="State Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-5" value="State Interface" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="720" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-6" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;Routine Interface&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Provide routing for the NPC. It hold routines that NPC should execute in a Period of time&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(e.g in a Day)&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-6" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;Routine Interface&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Provide routing for the NPC. It hold routines that NPC should execute in a Period of time&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(e.g in a Day)&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1000" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YYzyWu6Zux30reTFmIS8-7" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;Social Interface&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;This interface decide if NPC is Hostile, Neutral or Friendly&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Provide standing with other types of NPC and PC. Against type of NPC/PC like (Monster, Human. etc.) or concrete NPC/PC ( e.g ID of NPC)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YYzyWu6Zux30reTFmIS8-7" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;Social Interface&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;This interface decide if NPC is Hostile, Neutral or Friendly&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Provide standing with other types of NPC and PC. Against type of NPC/PC like (Monster, Human. etc.) or concrete NPC/PC ( e.g ID of NPC)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="720" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DcQ6lHC2o1TYLASO_E0s-2" value="Perception Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DcQ6lHC2o1TYLASO_E0s-3" value="&lt;h1 style=&quot;text-align: justify; margin-top: 0px;&quot;&gt;Perception Interface&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Provide field of view to the NPC/PC, Provide event what entered field of view so other sub systems can react.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
